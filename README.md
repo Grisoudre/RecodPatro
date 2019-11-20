@@ -31,7 +31,7 @@ Puis, sur la nouvelle fenêtre, cliquer sur "Open in browser".
 
 **Avant toute chose, cliquer sur "Open in browser"**
 
-**1er onglet - Importation :**
+**1er onglet - Importation :** 
 
 1. Importation du tableau
 2. Choix de la variable à recoder
